@@ -1,24 +1,3 @@
-# githubDepo-dfsd
-sdf
-sfs
-f
-sf
-sdf
-sd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-dffsfsdfd
+# githubDepo
+bu dosya test amaçlı oluşturuldu
+ne olacağını görücez
